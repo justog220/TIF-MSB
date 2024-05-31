@@ -41,7 +41,7 @@ Podría ser interesante tambien añadir un aleatoriedad en algún término del c
 1. Clona el repositorio
 
     ```bash
-    git clone 
+    git clone https://github.com/justog220/TIF-MSB.git
     ```
 
 2. Navega al directorio
