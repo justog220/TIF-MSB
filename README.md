@@ -1,6 +1,6 @@
 # Trabajo Final de Modelos de Sistemas Biológicos - FIUNER 2024
 
-Este repositorio contiene el trabajo final, llevado a cabo por Garcia Justo, para el de Modelos de Sistemas Biológicos de la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER) del año 2024.
+Este repositorio contiene el trabajo final, llevado a cabo por Garcia Justo, para el cursado de Modelos de Sistemas Biológicos de la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER) del año 2024.
 
 ## Descripción
 En este proyecto se incluye una presentación de diapositiva desarrollado en el artículo referenciado [1] y el código desarrollado en él con un aporte creativo de elaboración propia.
