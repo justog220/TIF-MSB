@@ -1,0 +1,5 @@
+# Archivo generado por el script de python
+*.csv
+
+# Archivo utilizado para la generación de gráficas complementarias del README.
+auxiliar.ipynb
